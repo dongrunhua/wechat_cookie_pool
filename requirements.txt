@@ -1,0 +1,5 @@
+requests>=2.13.0
+redis>=2.10.5
+Flask>=0.12.1
+selenium>=3.141.0
+PyVirtualDisplay>=0.2.5
